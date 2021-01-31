@@ -1,0 +1,70 @@
+{
+  "bg": "https://wallpaperaccess.com/full/1904794.jpg",
+  "title": "Quiz Anatomia Humana",
+  "description": "Teste o seu conhecimento e divirta-se!",
+  "questions": [
+    {
+      "image": "https://img.ibxk.com.br/2018/08/04/04214606024451.gif",
+      "title": "Para que serve o esqueleto humano?",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+        "Para proteger os músculos.",
+        "Para sustentar o corpo e proteger alguns orgãos.",
+        "Para fazer musculação."
+      ]
+    },
+    {
+      "image": "https://www.interessantesaber.com.br/wp-content/uploads/2017/04/o-m%C3%BAsculo-mais-forte-do-corpo-humano.gif",
+      "title": "Qual músculo da boca é considerado o mais forte do corpo?",
+      "description": "dica: músculo da mastigação",
+      "answer": 0,
+      "alternatives": [
+         "Masseter",
+         "Orbicular dos olhos",
+         "Nasal",
+         "Bíceps"
+      ]
+    },
+    {
+      "image": "https://media.tenor.com/images/3ff6e810091ff6057ae9aa74f8b7070f/tenor.gif",
+      "title": "Qual o nome desse músculo?",
+      "description": "",
+      "answer": 3,
+      "alternatives": [
+         "Glúteos",
+         "Masseter",
+         "Gastrocnêmio",
+         "Bíceps Braquial"
+      ]
+    },
+    {
+      "image": "https://linaisernia.it/wp-content/uploads/2015/02/Deltoid_muscle_animation2.gif",
+      "title": "Qual o nome desse músculo?",
+      "description": "Dica: Recebe o nome de acordo com seu formato.",
+      "answer": 2,
+      "alternatives": [
+         "Esferoides",
+         "Redondos",
+         "Deltoides",
+         "Quadrados"
+      ]
+    }
+  ],
+  "external": [
+    "https://quiz-seguranca.vercel.app/",
+    "https://mrrobot-quiz.xandowski.vercel.app/",
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#c75454",
+      "secondary": "#d61e86",
+      "mainBg": "#363636",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
